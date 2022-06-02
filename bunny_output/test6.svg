@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="30.5cm" height="30.5cm" viewBox = "-10.199715721697805 -10.199715721697805 224.39374587735168 224.39374587735168" version = "1.1" xmlns="http://www.w3.org/2000/svg">
+<path d ="M 0.0,0.0 11.565596061959974,0.0" style="fill:none;stroke:#ff0000;stroke-width:0.40798862886791215;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+<text x="5.782798030979987" y="4.079886288679122" font-size="3.059914716509341" stroke-width="0.020399431443395608" transform="rotate(0.0,5.782798030979987,4.079886288679122)">24</text>
+<path d ="M 11.565596061959974,0.0 3.933027646914375,19.27795982053876" style="fill:none;stroke:#ff0000;stroke-width:0.40798862886791215;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:1.6319545154716486, 4.079886288679122;stroke-dashoffset:0;stroke-opacity:1" />
+<path d ="M 3.933027646914375,19.27795982053876 0.0,0.0" style="fill:none;stroke:#ff0000;stroke-width:0.40798862886791215;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+<text x="5.9640537390169035" y="8.823414614257642" font-size="3.059914716509341" stroke-width="0.020399431443395608" transform="rotate(-101.53105442228335,5.9640537390169035,8.823414614257642)">20</text>
+<path d ="M 11.565596061959974,0.0 37.57064026989721,31.26176074916389" style="fill:none;stroke:#ff0000;stroke-width:0.40798862886791215;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:1.6319545154716486, 4.079886288679122;stroke-dashoffset:0;stroke-opacity:1" />
+<path d ="M 37.57064026989721,31.26176074916389 3.933027646914375,19.27795982053876" style="fill:none;stroke:#ff0000;stroke-width:0.40798862886791215;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+<text x="22.12104515687612" y="21.42658917516685" font-size="3.059914716509341" stroke-width="0.020399431443395608" transform="rotate(-160.39095196847424,22.12104515687612,21.42658917516685)">147</text>
+<path d ="M 11.565596061959974,0.0 47.9886866754527,20.950093285634342" style="fill:none;stroke:#ff0000;stroke-width:0.40798862886791215;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+<text x="27.742938497309357" y="14.011639750110147" font-size="3.059914716509341" stroke-width="0.020399431443395608" transform="rotate(29.90695926360681,27.742938497309357,14.011639750110147)">74</text>
+<path d ="M 47.9886866754527,20.950093285634342 37.57064026989721,31.26176074916389" style="fill:none;stroke:#0066ff;stroke-width:0.40798862886791215;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+<text x="39.90959055930024" y="23.2062453796215" font-size="3.059914716509341" stroke-width="0.020399431443395608" transform="rotate(135.29402291527242,39.90959055930024,23.2062453796215)">32</text>
+</svg>
